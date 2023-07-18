@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Health Insurance Plan A",
+    "description": "Basic health insurance plan",
+    "price": 100,
+    "underwriter": "Company A",
+    "category": "Basic",
+    "details": {
+      "coverage": "Basic coverage for general health issues",
+      "pricingOptions": {
+        "monthly": 10,
+        "quarterly": 28,
+        "yearly": 100
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Health Insurance Plan B",
+    "description": "Intermediate health insurance plan",
+    "price": 200,
+    "underwriter": "Company B",
+    "category": "Intermediate",
+    "details": {
+      "coverage": "Intermediate coverage for general health issues and some special conditions",
+      "pricingOptions": {
+        "monthly": 20,
+        "quarterly": 55,
+        "yearly": 200
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Health Insurance Plan C",
+    "description": "Advanced health insurance plan",
+    "price": 300,
+    "underwriter": "Company C",
+    "category": "Advanced",
+    "details": {
+      "coverage": "Advanced coverage for general health issues, special conditions, and critical illnesses",
+      "pricingOptions": {
+        "monthly": 30,
+        "quarterly": 85,
+        "yearly": 300
+      }
+    }
+  }
+]
